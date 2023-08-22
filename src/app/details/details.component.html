@@ -1,0 +1,48 @@
+<label>StartDate: </label>
+<input type="date" [(ngModel)]="startDate" />
+<label>EndDate: </label>
+<input type="date" [(ngModel)]="endDate" />
+
+<button (click)="displayGraph()">filter</button>
+
+<div class="chart">
+  <canvas id="myChart"></canvas>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>itemno</th>
+
+      <th>itemdesc</th>
+
+      <th>locid</th>
+
+      <th>locdesc</th>
+
+      <th>snapshotid</th>
+
+      <th>Timestamp</th>
+
+      <th>Quantity</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let item of value">
+      <td>{{ item.itemno }}</td>
+
+      <td>{{ item.itemdesc }}</td>
+
+      <td>{{ item.locid }}</td>
+
+      <td>{{ item.locdesc }}</td>
+
+      <td>{{ item.snapshotid }}</td>
+
+      <td>{{ item.Timestamp }}</td>
+
+      <td>{{ item.Quantity }}</td>
+    </tr>
+  </tbody>
+</table>

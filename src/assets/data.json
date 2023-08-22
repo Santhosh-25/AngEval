@@ -1,0 +1,91 @@
+[
+  {
+    "itemno": 1,
+    "item-desc": "item no1 description",
+    "loc-id": "TN-01",
+    "loc-desc": "Chennai location",
+    "snapshot-id": 100101,
+    "Timestamp": "2023, 8, 21",
+    "Quantity": 500
+  },
+
+  {
+    "itemno": 2,
+    "item-desc": "Item #2 description",
+    "loc-id": "NY-02",
+    "loc-desc": "New York warehouse",
+    "snapshot-id": 210802,
+    "Timestamp": "2023, 8, 22",
+    "Quantity": 480
+  },
+
+  {
+    "itemno": 3,
+    "item-desc": "Item #3 description",
+    "loc-id": "TX-03",
+    "loc-desc": "Texas facility",
+    "snapshot-id": 210803,
+    "Timestamp": "2023, 8, 23",
+    "Quantity": 220
+  },
+
+  {
+    "itemno": 4,
+    "item-desc": "Item #4 description",
+    "loc-id": "IL-04",
+    "loc-desc": "Illinois distribution center",
+    "snapshot-id": 210804,
+    "Timestamp": "2023, 8, 24",
+    "Quantity": 590
+  },
+
+  {
+    "itemno": 5,
+    "item-desc": "Item #5 description",
+    "loc-id": "FL-05",
+    "loc-desc": "Florida hub",
+    "snapshot-id": 210805,
+    "Timestamp": "2023, 8, 22",
+    "Quantity": 150
+  },
+
+  {
+    "itemno": 6,
+    "item-desc": "Item #1 description",
+    "loc-id": "CA-01",
+    "loc-desc": "California location",
+    "snapshot-id": 210801,
+    "Timestamp": "2023, 8, 24",
+    "Quantity": 350
+  },
+
+  {
+    "itemno": 7,
+    "item-desc": "item no1 description",
+    "loc-id": "TN-01",
+    "loc-desc": "Chennai location",
+    "snapshot-id": 100101,
+    "Timestamp": "2023, 8, 21",
+    "Quantity": 500
+  },
+
+  {
+    "itemno": 8,
+    "item-desc": "item no1 description",
+    "loc-id": "TN-01",
+    "loc-desc": "Chennai location",
+    "snapshot-id": 100101,
+    "Timestamp": "2023, 8, 22",
+    "Quantity": 500
+  },
+
+  {
+    "itemno": 9,
+    "item-desc": "item no1 description",
+    "loc-id": "TN-01",
+    "loc-desc": "Chennai location",
+    "snapshot-id": 100101,
+    "Timestamp": "2023, 8, 24",
+    "Quantity": 500
+  }
+]
